@@ -1,0 +1,112 @@
+{
+    "collection": [{
+            "language": "VI",
+            "sites": [{
+                    "name": "VnExpress",
+                    "url": "https://vnexpress.net",
+                    "rss": "https://vnexpress.net/rss",
+                    "categories": {
+                        "tin-moi-nhat": "/rss/tin-moi-nhat.rss",
+                        "the-gioi": "/rss/the-gioi.rss",
+                        "thoi-su": "/rss/thoi-su.rss",
+                        "kinh-doanh": "/rss/kinh-doanh.rss",
+                        "startup" :"/rss/startup.rss",
+                        "giai-tri": "/rss/giai-tri.rss",
+                        "the-thao": "/rss/the-thao.rss",
+                        "phap-luat": "/rss/phap-luat.rss",
+                        "giao-duc": "/rss/giao-duc.rss",
+                        "tin-noi-bat": "/rss/tin-noi-bat.rss",
+                        "suc-khoe": "/rss/suc-khoe.rss",
+                        "gia-dinh": "/rss/gia-dinh.rss",
+                        "du-lich": "/rss/du-lich.rss",
+                        "khoa-hoc": "/rss/khoa-hoc.rss",
+                        "so-hoa": "/rss/so-hoa.rss",
+                        "oto-xe-may": "/rss/oto-xe-may.rss",
+                        "y-kien": "/rss/y-kien.rss",
+                        "tam-su": "/rss/tam-su.rss",
+                        "cuoi": "/rss/cuoi.rss",
+                        "tin-xem-nhieu": "/rss/tin-xem-nhieu.rss"
+                    }
+                },
+                {
+                    "name": "Tuoi Tre",
+                    "url": "https://tuoitre.vn",
+                    "rss": "https://tuoitre.vn/rss.htm",
+                    "categories": {
+                        "tin-moi-nhat": "",
+                        "thoi-su": "/rss/thoi-su.rss",
+                        "the-gioi": "/rss/the-gioi.rss",
+                        "phap-luat": "/rss/phap-luat.rss",
+                        "kinh-doanh": "/rss/kinh-doanh.rss",
+                        "nhip-song-so": "/rss/nhip-song-so.rss",
+                        "xe": "rss/xe.rss",
+                        "nhip-song-tre": "rss/nhip-song-tre.rss",
+                        "van-hoa": "/rss/van-hoa.rss",
+                        "giai-tri" :"/rss/giai-tri.rss",
+                        "the-thao": "/rss/the-thao.rss",
+                        "giao-duc": "/rss/giao-duc.rss",
+                        "khoa-hoc": "/rss/khoa-hoc.rss",
+                        "suc-khoe": "/rss/suc-khoe.rss",
+                        "gia-that": "/rss/gia-that.rss",
+                        "thu-gian": "/rss/thu-gian.rss",
+                        "ban-doc-lam-bao": "/rss/ban-doc-lam-bao.rss",
+                        "du-lich": "/rss/du-lich.rss"
+                    }
+                }
+            ]
+        },
+        {
+            "language": "EN",
+            "sites": [{
+                    "name": "The Economist",
+                    "url": "https://www.economist.com/",
+                    "rss": "https://www.economist.com/rss",
+                    "categories": {
+                        "the-world-this-week": "/the-world-this-week/rss.xml",
+                        "letters": "/letters/rss.xml",
+                        "leaders": "/leadesr/rss.xml",
+                        "briefing": "/briefing/rss.xml",
+                        "special-reports": "/special-report/rss.xml",
+                        "britain": "/britain/rss.xml",
+                        "europe": "/europe/rss.xml",
+                        "united-states": "/united-states/rss.xml",
+                        "the-americas": "/the-americas/rss.xml",
+                        "middle-east-and-africa": "/middle-east-and-africa/rss.xml",
+                        "asia": "/asia/rss.xml",
+                        "china": "/china/rss.xml",
+                        "international": "/international/rss.xml",
+                        "business": "/business/rss.xml",
+                        "finance-and-economics": "/finance-and-economics/rss.xml",
+                        "science-and-technology": "/science-and-technology/rss.xml",
+                        "books-and-arts": "/books-and-arts/rss.xml",
+                        "obituary": "/obituary/rss.xml",
+                        "graphic-detail": "/graphic-detail/rss.xml",
+                        "economic-and-financial-indicators": "/economic-and-financial-indicators/rss.xml",
+                    }
+                },
+                {
+                    "name": "The New York Times",
+                    "url": "https://www.nytimes.com",
+                    "rss": "https://www.nytimes.com/rss",
+                    "categories": {
+                        "world": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+                    }
+                }
+            ]
+        },
+        {
+            "language": "ES",
+            "sites": [{
+                    "name": "El Mundo",
+                    "url": "https://elmundo.es",
+                    "rss": "http://rss.elmundo.es/rss/"
+                },
+                {
+                    "name": "El Pais",
+                    "url": "https://www.elmundo.es/",
+                    "rss": "https://servicios.elpais.com/rss/"
+                }
+            ]
+        }
+    ]
+}
