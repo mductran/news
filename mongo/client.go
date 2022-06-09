@@ -9,9 +9,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-var Collection *mongo.Collection
-
-func Init() {
+func Init() *mongo.Collection {
 	client, err := mongo.NewClient(options.Client().ApplyURI("mongodb://localhost:27017"))
 	if err != nil {
 		log.Fatal(err)
@@ -24,5 +22,6 @@ func Init() {
 	defer client.Disconnect(ctx)
 	defer cancel()
 
-	Collection = client.Database("news").Collection("articles")
+	article_collection := client.Database("news").Collection("articles")
+	return article_collection
 }

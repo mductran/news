@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"newsonthego/mongo"
+	"newsonthego/collector"
 )
 
 func main() {
-
-	mongo.Init()
 	fmt.Println("crawling")
+
+	collector.ScrapeArticle("https://vnexpress.net/khau-trang-deo-tiep-hay-thoi-4473790.html")
 }

@@ -1,0 +1,126 @@
+[
+  {
+    "name": "portada",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml"
+  },
+  {
+    "name": "cienda",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cienda.xml"
+  },
+  {
+    "name": "cultura",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml"
+  },
+  {
+    "name": "economia",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml"
+  },
+  {
+    "name": "espana",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml"
+  },
+  {
+    "name": "internacional",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml"
+  },
+  {
+    "name": "madrid-24-horas",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml"
+  },
+  {
+    "name": "comunicacion",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/comunicacion.xml"
+  },
+  {
+    "name": "television",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/television.xml"
+  },
+  {
+    "name": "solidaridad",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/solidaridad.xml"
+  },
+  {
+    "name": "su-vivienda",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/suvivienda.xml"
+  },
+  {
+    "name": "el-navegante",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/navegante.xml"
+  },
+  {
+    "name": "castilla-y-leon",
+    "url": "https://e00-elmundo.uecdn.es/elmundosalud/rss/castillayleon.xml"
+  },
+  {
+    "name": "valencia",
+    "url": "https://e00-elmundo.uecdn.es/elmundosalud/rss/valencia.xml"
+  },
+  {
+    "name": "la-carcajoda",
+    "url": "http://rss.elmundo.es/rss/descarga.htm?data2=118"
+  },
+  {
+    "name": "mundotoons",
+    "url": "http://rss.elmundo.es/rss/descarga.htm?data2=119"
+  },
+  {
+    "name": "videos",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/videos.xml"
+  },
+  {
+    "name": "futbol",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/futbol.xml"
+  },
+  {
+    "name": "baloncesto",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/baloncesto.xml"
+  },
+  {
+    "name": "ciclismo",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/ciclismo.xml"
+  },
+  {
+    "name": "golf",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/golf.xml"
+  },
+  {
+    "name": "tenis",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/tenis.xml"
+  },
+  {
+    "name": "motor",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/motor.xml"
+  },
+  {
+    "name": "mas-deporte",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/masdeporte.xml"
+  },
+  {
+    "name": "pais-vasco",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/paisvasco.xml"
+  },
+  {
+    "name": "andalucia",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia.xml"
+  },
+  {
+    "name": "sevilla",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia_sevilla.xml"
+  },
+  {
+    "name": "malaga",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia_malaga.xml"
+  },
+  {
+    "name": "alicante",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/alicante.xml"
+  },
+  {
+    "name": "castellon",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/castellon.xml"
+  },
+  {
+    "name": "union-europa",
+    "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/union_europa.xml"
+  }
+]

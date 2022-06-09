@@ -5,53 +5,53 @@
                     "name": "VnExpress",
                     "url": "https://vnexpress.net",
                     "rss": "https://vnexpress.net/rss",
-                    "categories": {
-                        "tin-moi-nhat": "/rss/tin-moi-nhat.rss",
-                        "the-gioi": "/rss/the-gioi.rss",
-                        "thoi-su": "/rss/thoi-su.rss",
-                        "kinh-doanh": "/rss/kinh-doanh.rss",
-                        "startup" :"/rss/startup.rss",
-                        "giai-tri": "/rss/giai-tri.rss",
-                        "the-thao": "/rss/the-thao.rss",
-                        "phap-luat": "/rss/phap-luat.rss",
-                        "giao-duc": "/rss/giao-duc.rss",
-                        "tin-noi-bat": "/rss/tin-noi-bat.rss",
-                        "suc-khoe": "/rss/suc-khoe.rss",
-                        "gia-dinh": "/rss/gia-dinh.rss",
-                        "du-lich": "/rss/du-lich.rss",
-                        "khoa-hoc": "/rss/khoa-hoc.rss",
-                        "so-hoa": "/rss/so-hoa.rss",
-                        "oto-xe-may": "/rss/oto-xe-may.rss",
-                        "y-kien": "/rss/y-kien.rss",
-                        "tam-su": "/rss/tam-su.rss",
-                        "cuoi": "/rss/cuoi.rss",
-                        "tin-xem-nhieu": "/rss/tin-xem-nhieu.rss"
-                    }
+                    "categories": [
+                        { "name": "tin-moi-nhat", "url": "/rss/tin-moi-nhat.rss" },
+                        { "name": "the-gioi", "url": "/rss/the-gioi.rss" },
+                        { "name": "thoi-su", "url": "/rss/thoi-su.rss" },
+                        { "name": "kinh-doanh", "url": "/rss/kinh-doanh.rss" },
+                        { "name": "startup", "url": "/rss/startup.rss" },
+                        { "name": "giai-tri", "url": "/rss/giai-tri.rss" },
+                        { "name": "the-thao", "url": "/rss/the-thao.rss" },
+                        { "name": "phap-luat", "url": "/rss/phap-luat.rss" },
+                        { "name": "giao-duc", "url": "/rss/giao-duc.rss" },
+                        { "name": "tin-noi-bat", "url": "/rss/tin-noi-bat.rss" },
+                        { "name": "suc-khoe", "url": "/rss/suc-khoe.rss" },
+                        { "name": "gia-dinh", "url": "/rss/gia-dinh.rss" },
+                        { "name": "du-lich", "url": "/rss/du-lich.rss" },
+                        { "name": "khoa-hoc", "url": "/rss/khoa-hoc.rss" },
+                        { "name": "so-hoa", "url": "/rss/so-hoa.rss" },
+                        { "name": "oto-xe-may", "url": "/rss/oto-xe-may.rss" },
+                        { "name": "y-kien", "url": "/rss/y-kien.rss" },
+                        { "name": "tam-su", "url": "/rss/tam-su.rss" },
+                        { "name": "cuoi", "url": "/rss/cuoi.rss" },
+                        { "name": "tin-xem-nhieu", "url": "/rss/tin-xem-nhieu.rss" },
+                        { "name": "tin-xem-nhieu", "url": "/rss/tin-xem-nhieu.rss" }
+                      ]
                 },
                 {
                     "name": "Tuoi Tre",
                     "url": "https://tuoitre.vn",
                     "rss": "https://tuoitre.vn/rss.htm",
-                    "categories": {
-                        "tin-moi-nhat": "",
-                        "thoi-su": "/rss/thoi-su.rss",
-                        "the-gioi": "/rss/the-gioi.rss",
-                        "phap-luat": "/rss/phap-luat.rss",
-                        "kinh-doanh": "/rss/kinh-doanh.rss",
-                        "nhip-song-so": "/rss/nhip-song-so.rss",
-                        "xe": "rss/xe.rss",
-                        "nhip-song-tre": "rss/nhip-song-tre.rss",
-                        "van-hoa": "/rss/van-hoa.rss",
-                        "giai-tri" :"/rss/giai-tri.rss",
-                        "the-thao": "/rss/the-thao.rss",
-                        "giao-duc": "/rss/giao-duc.rss",
-                        "khoa-hoc": "/rss/khoa-hoc.rss",
-                        "suc-khoe": "/rss/suc-khoe.rss",
-                        "gia-that": "/rss/gia-that.rss",
-                        "thu-gian": "/rss/thu-gian.rss",
-                        "ban-doc-lam-bao": "/rss/ban-doc-lam-bao.rss",
-                        "du-lich": "/rss/du-lich.rss"
-                    }
+                    "categories": [
+                        { "name": "thoi-su", "url": "/rss/thoi-su.rss" },
+                        { "name": "the-gioi", "url": "/rss/the-gioi.rss" },
+                        { "name": "phap-luat", "url": "/rss/phap-luat.rss" },
+                        { "name": "kinh-doanh", "url": "/rss/kinh-doanh.rss" },
+                        { "name": "nhip-song-so", "url": "/rss/nhip-song-so.rss" },
+                        { "name": "xe", "url": "rss/xe.rss" },
+                        { "name": "nhip-song-tre", "url": "rss/nhip-song-tre.rss" },
+                        { "name": "van-hoa", "url": "/rss/van-hoa.rss" },
+                        { "name": "giai-tri", "url": "/rss/giai-tri.rss" },
+                        { "name": "the-thao", "url": "/rss/the-thao.rss" },
+                        { "name": "giao-duc", "url": "/rss/giao-duc.rss" },
+                        { "name": "khoa-hoc", "url": "/rss/khoa-hoc.rss" },
+                        { "name": "suc-khoe", "url": "/rss/suc-khoe.rss" },
+                        { "name": "gia-that", "url": "/rss/gia-that.rss" },
+                        { "name": "thu-gian", "url": "/rss/thu-gian.rss" },
+                        { "name": "ban-doc-lam-bao", "url": "/rss/ban-doc-lam-bao.rss" },
+                        { "name": "du-lich", "url": "/rss/du-lich.rss" }
+                      ]
                 }
             ]
         },
@@ -61,88 +61,281 @@
                     "name": "The Economist",
                     "url": "https://www.economist.com/",
                     "rss": "https://www.economist.com/rss",
-                    "categories": {
-                        "the-world-this-week": "/the-world-this-week/rss.xml",
-                        "letters": "/letters/rss.xml",
-                        "leaders": "/leadesr/rss.xml",
-                        "briefing": "/briefing/rss.xml",
-                        "special-reports": "/special-report/rss.xml",
-                        "britain": "/britain/rss.xml",
-                        "europe": "/europe/rss.xml",
-                        "united-states": "/united-states/rss.xml",
-                        "the-americas": "/the-americas/rss.xml",
-                        "middle-east-and-africa": "/middle-east-and-africa/rss.xml",
-                        "asia": "/asia/rss.xml",
-                        "china": "/china/rss.xml",
-                        "international": "/international/rss.xml",
-                        "business": "/business/rss.xml",
-                        "finance-and-economics": "/finance-and-economics/rss.xml",
-                        "science-and-technology": "/science-and-technology/rss.xml",
-                        "books-and-arts": "/books-and-arts/rss.xml",
-                        "obituary": "/obituary/rss.xml",
-                        "graphic-detail": "/graphic-detail/rss.xml",
-                        "economic-and-financial-indicators": "/economic-and-financial-indicators/rss.xml",
-                    }
+                    "categories": [
+                      {
+                        "name": "the-world-this-week",
+                        "url": "/the-world-this-week/rss.xml"
+                      },
+                      { "name": "letters", "url": "/letters/rss.xml" },
+                      { "name": "leaders", "url": "/leadesr/rss.xml" },
+                      { "name": "briefing", "url": "/briefing/rss.xml" },
+                      {
+                        "name": "special-reports",
+                        "url": "/special-report/rss.xml"
+                      },
+                      { "name": "britain", "url": "/britain/rss.xml" },
+                      { "name": "europe", "url": "/europe/rss.xml" },
+                      {
+                        "name": "united-states",
+                        "url": "/united-states/rss.xml"
+                      },
+                      {
+                        "name": "the-americas",
+                        "url": "/the-americas/rss.xml"
+                      },
+                      {
+                        "name": "middle-east-and-africa",
+                        "url": "/middle-east-and-africa/rss.xml"
+                      },
+                      { "name": "asia", "url": "/asia/rss.xml" },
+                      { "name": "china", "url": "/china/rss.xml" },
+                      {
+                        "name": "international",
+                        "url": "/international/rss.xml"
+                      },
+                      { "name": "business", "url": "/business/rss.xml" },
+                      {
+                        "name": "finance-and-economics",
+                        "url": "/finance-and-economics/rss.xml"
+                      },
+                      {
+                        "name": "science-and-technology",
+                        "url": "/science-and-technology/rss.xml"
+                      },
+                      {
+                        "name": "books-and-arts",
+                        "url": "/books-and-arts/rss.xml"
+                      },
+                      { "name": "obituary", "url": "/obituary/rss.xml" },
+                      {
+                        "name": "graphic-detail",
+                        "url": "/graphic-detail/rss.xml"
+                      },
+                      {
+                        "name": "economic-and-financial-indicators",
+                        "url": "/economic-and-financial-indicators/rss.xml"
+                      }
+                    ]
                 },
                 {
                     "name": "The New York Times",
                     "url": "https://www.nytimes.com",
                     "rss": "https://www.nytimes.com/rss",
-                    "categories": {
-                        "home": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-                        "world": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-                        "africa": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
-                        "americas": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
-                        "asia-pacific": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
-                        "europe": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
-                        "middle-east": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
-                        "u.s.": "https://rss.nytimes.com/services/xml/rss/nyt/Us.xml",
-                        "education": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml",
-                        "politics": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-                        "the-upshot": "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml",
-                        "ny-region": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
-                        "business": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-                        "energy-and-environment": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnviroment.xml",
-                        "small-business": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml",
-                        "economy": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
-                        "deal-book": "https://rss.nytimes.com/services/xml/rss/nyt/DeakBook.xml",
-                        "media-and-advertising": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
-                        "your-money": "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml",
-                        "technology": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-                        "personal-tech": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml",
-                        "sports": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
-                        "baseball": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml",
-                        "college-basketball": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml",
-                        "college-football": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml",
-                        "golf": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml",
-                        "hockey": "https://rss.nytimes.com/services/xml/rss/nyt/Hocket.xml",
-                        "pro-basketball": "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml",
-                        "pro-football": "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml",
-                        "soccer": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml",
-                        "tennis": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml",
-                        "science": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-                        "environment": "https://rss.nytimes.com/services/xml/rss/nyt/Environment.xml",
-                        "space-and-cosmos": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
-                        "health": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-                        "well-blog": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml",
-                        "arts": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-                        "art-and-design": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
-                        "books": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml",
-                        "sunday-book-review": "https://rss.nytimes.com/services/xml/rss/nyt/SundayBookReview.xml",
-                        "dance": "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml",
-                        "movies": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml",
-                        "music": "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml",
-                        "television": "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml",
-                        "theather": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml",
-                        "fashion-and-style": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-                        "dining-and-wine": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
-                        "love": "https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml",
-                        "t-magazine": "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml",
-                        "travel": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-                        "jobs": "https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml",
-                        "real-estate": "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml",
-                        "autos": "https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml"
-                    }
+                    "categories":[
+                        {
+                          "name": "home",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+                        },
+                        {
+                          "name": "world",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+                        },
+                        {
+                          "name": "africa",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml"
+                        },
+                        {
+                          "name": "americas",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml"
+                        },
+                        {
+                          "name": "asia-pacific",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"
+                        },
+                        {
+                          "name": "europe",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
+                        },
+                        {
+                          "name": "middle-east",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml"
+                        },
+                        {
+                          "name": "u.s.",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Us.xml"
+                        },
+                        {
+                          "name": "education",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml"
+                        },
+                        {
+                          "name": "politics",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+                        },
+                        {
+                          "name": "the-upshot",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Upshot.xml"
+                        },
+                        {
+                          "name": "ny-region",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+                        },
+                        {
+                          "name": "business",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+                        },
+                        {
+                          "name": "energy-and-environment",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnviroment.xml"
+                        },
+                        {
+                          "name": "small-business",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml"
+                        },
+                        {
+                          "name": "economy",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
+                        },
+                        {
+                          "name": "deal-book",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/DeakBook.xml"
+                        },
+                        {
+                          "name": "media-and-advertising",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"
+                        },
+                        {
+                          "name": "your-money",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/YourMoney.xml"
+                        },
+                        {
+                          "name": "technology",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+                        },
+                        {
+                          "name": "personal-tech",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml"
+                        },
+                        {
+                          "name": "sports",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+                        },
+                        {
+                          "name": "baseball",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Baseball.xml"
+                        },
+                        {
+                          "name": "college-basketball",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeBasketball.xml"
+                        },
+                        {
+                          "name": "college-football",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/CollegeFootball.xml"
+                        },
+                        {
+                          "name": "golf",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Golf.xml"
+                        },
+                        {
+                          "name": "hockey",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Hocket.xml"
+                        },
+                        {
+                          "name": "pro-basketball",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/ProBasketball.xml"
+                        },
+                        {
+                          "name": "pro-football",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/ProFootball.xml"
+                        },
+                        {
+                          "name": "soccer",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml"
+                        },
+                        {
+                          "name": "tennis",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml"
+                        },
+                        {
+                          "name": "science",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+                        },
+                        {
+                          "name": "environment",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Environment.xml"
+                        },
+                        {
+                          "name": "space-and-cosmos",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml"
+                        },
+                        {
+                          "name": "health",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+                        },
+                        {
+                          "name": "well-blog",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Well.xml"
+                        },
+                        {
+                          "name": "arts",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+                        },
+                        {
+                          "name": "art-and-design",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml"
+                        },
+                        {
+                          "name": "books",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml"
+                        },
+                        {
+                          "name": "sunday-book-review",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/SundayBookReview.xml"
+                        },
+                        {
+                          "name": "dance",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Dance.xml"
+                        },
+                        {
+                          "name": "movies",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+                        },
+                        {
+                          "name": "music",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Music.xml"
+                        },
+                        {
+                          "name": "television",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Television.xml"
+                        },
+                        {
+                          "name": "theather",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Theater.xml"
+                        },
+                        {
+                          "name": "fashion-and-style",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+                        },
+                        {
+                          "name": "dining-and-wine",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml"
+                        },
+                        {
+                          "name": "love",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weddings.xml"
+                        },
+                        {
+                          "name": "t-magazine",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/tmagazine.xml"
+                        },
+                        {
+                          "name": "travel",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml"
+                        },
+                        {
+                          "name": "jobs",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml"
+                        },
+                        {
+                          "name": "real-estate",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml"
+                        },
+                        {
+                          "name": "autos",
+                          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml"
+                        }
+                      ]
+                      
                 }
             ]
         },
@@ -152,39 +345,133 @@
                     "name": "El Mundo",
                     "url": "https://elmundo.es",
                     "rss": "http://rss.elmundo.es/rss/",
-                    "categories": {
-                        "portada": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-                        "cienda": "https://e00-elmundo.uecdn.es/elmundo/rss/cienda.xml",
-                        "cultura": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
-                        "economia": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml",
-                        "espana": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
-                        "internacional": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
-                        "madrid-24-horas": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
-                        "comunicacion": "https://e00-elmundo.uecdn.es/elmundo/rss/comunicacion.xml",
-                        "television": "https://e00-elmundo.uecdn.es/elmundo/rss/television.xml",
-                        "solidaridad": "https://e00-elmundo.uecdn.es/elmundo/rss/solidaridad.xml",
-                        "su-vivienda": "https://e00-elmundo.uecdn.es/elmundo/rss/suvivienda.xml",
-                        "el-navegante": "https://e00-elmundo.uecdn.es/elmundo/rss/navegante.xml",
-                        "castilla-y-leon": "https://e00-elmundo.uecdn.es/elmundosalud/rss/castillayleon.xml",
-                        "valencia": "https://e00-elmundo.uecdn.es/elmundosalud/rss/valencia.xml",
-                        "la-carcajoda": "http://rss.elmundo.es/rss/descarga.htm?data2=118",
-                        "mundotoons": "http://rss.elmundo.es/rss/descarga.htm?data2=119",
-                        "videos": "https://e00-elmundo.uecdn.es/elmundo/rss/videos.xml",
-                        "futbol": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/futbol.xml",
-                        "baloncesto": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/baloncesto.xml",
-                        "ciclismo": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/ciclismo.xml",
-                        "golf": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/golf.xml",
-                        "tenis": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/tenis.xml",
-                        "motor": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/motor.xml",
-                        "mas-deporte": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/masdeporte.xml",
-                        "pais-vasco": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/paisvasco.xml",
-                        "andalucia": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia.xml",
-                        "sevilla": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia_sevilla.xml",
-                        "malaga": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia_malaga.xml",
-                        "alicante": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/alicante.xml",
-                        "castellon": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/castellon.xml",
-                        "union-europa": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/union_europa.xml"
-                    }
+                    "categories": [
+                        {
+                          "name": "portada",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml"
+                        },
+                        {
+                          "name": "cienda",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cienda.xml"
+                        },
+                        {
+                          "name": "cultura",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml"
+                        },
+                        {
+                          "name": "economia",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml"
+                        },
+                        {
+                          "name": "espana",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml"
+                        },
+                        {
+                          "name": "internacional",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml"
+                        },
+                        {
+                          "name": "madrid-24-horas",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml"
+                        },
+                        {
+                          "name": "comunicacion",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/comunicacion.xml"
+                        },
+                        {
+                          "name": "television",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/television.xml"
+                        },
+                        {
+                          "name": "solidaridad",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/solidaridad.xml"
+                        },
+                        {
+                          "name": "su-vivienda",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/suvivienda.xml"
+                        },
+                        {
+                          "name": "el-navegante",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/navegante.xml"
+                        },
+                        {
+                          "name": "castilla-y-leon",
+                          "url": "https://e00-elmundo.uecdn.es/elmundosalud/rss/castillayleon.xml"
+                        },
+                        {
+                          "name": "valencia",
+                          "url": "https://e00-elmundo.uecdn.es/elmundosalud/rss/valencia.xml"
+                        },
+                        {
+                          "name": "la-carcajoda",
+                          "url": "http://rss.elmundo.es/rss/descarga.htm?data2=118"
+                        },
+                        {
+                          "name": "mundotoons",
+                          "url": "http://rss.elmundo.es/rss/descarga.htm?data2=119"
+                        },
+                        {
+                          "name": "videos",
+                          "url": "https://e00-elmundo.uecdn.es/elmundo/rss/videos.xml"
+                        },
+                        {
+                          "name": "futbol",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/futbol.xml"
+                        },
+                        {
+                          "name": "baloncesto",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/baloncesto.xml"
+                        },
+                        {
+                          "name": "ciclismo",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/ciclismo.xml"
+                        },
+                        {
+                          "name": "golf",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/golf.xml"
+                        },
+                        {
+                          "name": "tenis",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/tenis.xml"
+                        },
+                        {
+                          "name": "motor",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/motor.xml"
+                        },
+                        {
+                          "name": "mas-deporte",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/masdeporte.xml"
+                        },
+                        {
+                          "name": "pais-vasco",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/paisvasco.xml"
+                        },
+                        {
+                          "name": "andalucia",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia.xml"
+                        },
+                        {
+                          "name": "sevilla",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia_sevilla.xml"
+                        },
+                        {
+                          "name": "malaga",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/andalucia_malaga.xml"
+                        },
+                        {
+                          "name": "alicante",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/alicante.xml"
+                        },
+                        {
+                          "name": "castellon",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/castellon.xml"
+                        },
+                        {
+                          "name": "union-europa",
+                          "url": "https://e00-elmundo.uecdn.es/elmundodeporte/rss/union_europa.xml"
+                        }
+                      ]
+                      
                 }
             ]
         }
