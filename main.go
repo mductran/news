@@ -2,9 +2,11 @@ package main
 
 import (
 	"fmt"
+	"newsonthego/mongo"
 )
 
 func main() {
-	fmt.Println("crawling")
 
+	mongo.Init()
+	fmt.Println("crawling")
 }
